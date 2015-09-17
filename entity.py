@@ -5,4 +5,5 @@ from stats import HasStats
 from inventory import HasInventory
 
 class Entity(HasStats,HasInventory):
-    pass
+    buffs = []
+    debufs = [] 
