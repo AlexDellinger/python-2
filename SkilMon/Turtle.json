@@ -1,31 +1,31 @@
 {
-  "name": "Bulbasaur",
+  "name": "Turtle",
   "uid": "1",
-  "abilities": [ "Overgrow", "Chlorophyll"],
-  "types": [ "Grass", "Poison"],
-  "moves": ["Tackle","Growl","Vine Whip"],
-  "description": "",
-  "attack": 49,
-  "sp_attack": 65,
-  "defense": 49,
-  "sp_defense": 65,
-  "species": "Seed",
-  "speed": 45,
-  "total": 318,
-  "catch_rate": 45,
-  "ev_yield": "1 Sp Atk",
+  "abilities": [ "Overgrow", "ShellArmor"],
+  "types": ["Plant"],
+  "moves": ["Tackle","Growl","Vine Whip","NaturesPower"],
+  "description": "The majestic Turtle is always happy, and It can only be obtained by sitting in the wild for a year with no help",
+  "attack": "123461",
+  "sp_attack": "7777777777",
+  "defense": "14534",
+  "sp_defense": "1253",
+  "species": "Turtle",
+  "speed": "4325678760",
+  "total": "318",
+  "catch_rate": ".00001",
+  "ev_yield": "3 Sp Atk",
   "evolutions": [
     {
-      "level": 16,
+      "level": 18,
       "method": "level up",
-      "to": "Ivysaur"
+      "to": "Big Turtle"
     }
   ],
-  "exp": 64,
+  "exp": "2121345678",
   "growth_rate": "ms",
-  "happiness": 70,
-  "height": 0.7,
-  "eight": 6.9,
-  "hp": 45,
-  "mf_ratio": 87.5
+  "happiness": "99999999999999999999999999999999999999999999999999999999999999999",
+  "height": "2",
+  "eight": "6.9",
+  "hp": "99999999",
+  "mf_ratio": "87.5"
 }
